@@ -86,6 +86,16 @@
 
 ---
 
+## 下载（Releases）
+
+- 发布页：https://github.com/XiaoYangTech/YUXIN-K01-LineageOS-14.1/releases/tag/v3.3
+- `ROM-YUXIN_K01_LineageOS-14.1_v3.3_CN.zip`（约 436MB）
+- `twrp-yuxin-k01-3.4.0-0.img`（16MB，不带主题）
+
+校验值见 `SHA256SUMS`。
+
+---
+
 ## 仓库内容
 
 | 路径 | 说明 |
