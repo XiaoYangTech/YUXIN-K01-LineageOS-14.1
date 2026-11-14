@@ -7,6 +7,8 @@
 - 内核：设备原厂 6.0 内核 3.18.19（保持原厂 modem/屏幕/触摸驱动）
 - 状态：**可日用（WiFi 版）**，已知问题见下
 
+**镜像仓库**：[CNB](https://cnb.cool/InspireWorks/YUXIN-K01-LineageOS-14.1) ｜ [GitHub](https://github.com/XiaoYangTech/YUXIN-K01-LineageOS-14.1)
+
 ---
 
 ## 设备信息
@@ -88,7 +90,8 @@
 
 ## 下载（Releases）
 
-- 发布页：https://github.com/XiaoYangTech/YUXIN-K01-LineageOS-14.1/releases/tag/v3.3
+- GitHub 发布页：https://github.com/XiaoYangTech/YUXIN-K01-LineageOS-14.1/releases/tag/v3.3
+- CNB 发布页：https://cnb.cool/InspireWorks/YUXIN-K01-LineageOS-14.1/-/releases/tag/v3.3
 - `ROM-YUXIN_K01_LineageOS-14.1_v3.3_CN.zip`（约 436MB）
 - `twrp-yuxin-k01-3.4.0-0.img`（16MB，不带主题）
 
