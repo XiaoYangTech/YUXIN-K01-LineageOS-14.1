@@ -92,6 +92,9 @@
 
 - GitHub 发布页：https://github.com/XiaoYangTech/YUXIN-K01-LineageOS-14.1/releases/tag/v3.3
 - CNB 发布页：https://cnb.cool/InspireWorks/YUXIN-K01-LineageOS-14.1/-/releases/tag/v3.3
+
+> 注意：CNB 附件存储带宽较小，**ROM 卡刷包请从 GitHub Release 下载**（SHA256 一致）；TWRP 镜像在两个 Release 都有。
+- CNB 发布页：https://cnb.cool/InspireWorks/YUXIN-K01-LineageOS-14.1/-/releases/tag/v3.3
 - `ROM-YUXIN_K01_LineageOS-14.1_v3.3_CN.zip`（约 436MB）
 - `twrp-yuxin-k01-3.4.0-0.img`（16MB，不带主题）
 
