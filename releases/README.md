@@ -1,0 +1,8 @@
+# 下载
+
+发布文件通过 GitHub Releases 提供：
+
+- `ROM-YUXIN_K01_LineageOS-14.1_v3.3_CN.zip` — LineageOS 14.1 中文移植卡刷包
+- `twrp-yuxin-k01-3.4.0-0.img` — TWRP 3.4.0-0（不带主题）
+
+校验值见仓库根目录 `SHA256SUMS`。
